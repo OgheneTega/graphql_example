@@ -1,4 +1,4 @@
-# gaphql_example
+# graphql_example
 
 A new Flutter project.
 
